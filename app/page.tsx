@@ -79,7 +79,7 @@ const tools: Tool[] = [
   {
     name: "CapCut",
     role: "Short-Form Video Editing",
-    img: "/IMAGES/capcut.png",
+    img: "/IMAGES/Capcut.png",
     accent: "#ffffff",
     desc: "Where speed meets style: cutting content that holds attention on Reels, TikTok and Shorts.",
     list: [
@@ -162,13 +162,13 @@ const experiences: Experience[] = [
         company: "Spinedao",
         title: "Community Manager",
         period: "2025 - 2026",
-        logo: "/IMAGES/logos/spinedao.png",
+        logo: "/IMAGES/spinedao.png",
       },
       {
         company: "Nodes Agency",
         title: "Content Writer",
         period: "2025 - 2026",
-        logo: "/IMAGES/logos/nodes.png",
+        logo: "/IMAGES/nodes.png",
       },
     ],
   },
@@ -178,7 +178,7 @@ const experiences: Experience[] = [
 const aboutPhotos = [
   { src: "/IMAGES/me5.jpeg", alt: "Maxwell Teenoq Magaji, portrait 1" },
   { src: "/IMAGES/me6.jpg", alt: "Maxwell Teenoq Magaji, portrait 2" },
-  { src: "/IMAGES/me7.jpg", alt: "Maxwell Teenoq Magaji, portrait 3" },
+ 
 ];
 
 /* ---------- About photo: 3D tilt card, fades between pictures ---------- */
@@ -1146,7 +1146,7 @@ export default function Home() {
                 </strong>{" "}
                 is a creative visual strategist and creative director. He
                 blends creative expertise with visuals and technology to build
-                aesthetic brand websites and motion graphic videos, giving
+                aesthetic brand identities with motion graphic videos, giving
                 brands a strong identity, whatever the vision.
               </p>
 
@@ -1164,13 +1164,12 @@ export default function Home() {
               </p>
 
               <p className="mt-4">
-                He studied at Bowen University, Iwo, Osun State, Nigeria, where
-                he majored in Computer Science and graduated with First Class
-                Honours.
+                He studied at Bowen University, where
+                he majored in Computer Science
               </p>
 
               <p className="mt-8 text-xs text-[#9a9aab] sm:mt-10">
-                based in <span className="text-white">Lagos, Nigeria</span>
+                based in <span className="text-white">Abuja, Nigeria</span>
               </p>
             </div>
           </div>
